@@ -14,10 +14,10 @@ jeopardy,"Quotes",400,"Finish the quote: 'Say my name. _______.'", "Heisenberg",
 jeopardy,"Quotes",600,"Finish the quote: 'I did it for _______.'", "me",false,3,3
 jeopardy,"Quotes",800,"Finish the quote: 'I'm in the _______ business.'", "empire",false,3,4
 jeopardy,"Quotes",1000,"Finish the quote: 'Tread _______.'", "lightly",false,3,5
-jeopardy,"Trivia",200,"Where is Breaking Bad primarily set?", "Albuquerque, New Mexico",false,4,1
-jeopardy,"Trivia",400,"Who is the creator of Breaking Bad?", "Vince Gilligan",false,4,2
-jeopardy,"Trivia",600,"What is the street name for the blue meth in Breaking Bad?", "Blue Sky",false,4,3
-jeopardy,"Trivia",800,"What is the name of the car wash that Walter White and Skyler White buy?", "A1A Car Wash",false,4,4
+jeopardy,"Trivia",200,"Where is Breaking Bad primarily set?","Albuquerque, New Mexico",false,4,1
+jeopardy,"Trivia",400,"Who is the creator of Breaking Bad?","Vince Gilligan",false,4,2
+jeopardy,"Trivia",600,"What is the street name for the blue meth in Breaking Bad?","Blue Sky",false,4,3
+jeopardy,"Trivia",800,"What is the name of the car wash that Walter White and Skyler White buy?","A1A Car Wash",false,4,4
 jeopardy,"Trivia",1000,"What is the nickname given to the superlab used by Gus Fring?", "The Laundry",false,4,5
 jeopardy,"Deaths",200,"Who is the first major character to die in Breaking Bad?", "Krazy-8",false,5,1
 jeopardy,"Deaths",400,"Who kills Gustavo Fring?", "Hector Salamanca",false,5,2
