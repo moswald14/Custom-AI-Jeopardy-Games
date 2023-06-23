@@ -2,6 +2,7 @@
 
 you can go to Jeopardy.app and do a custom game. it asks you for a .csv file. you can generate the file by prompting chatGPT:
 
+```
 replace the questions and answers to one's about [insert categories, show ideas, etc]. its crucial to name the categories. randomize the dd value so there's 1 for jeopardy and 2 for double jeopardy. make sure to include a final jeopardy. keep the x and y values the same. it's crucial to not have spaces after the commas. keep it in a code block:
 round,cat,val,q,a,dd,x,y
 jeopardy,"A CATEGORY",200,"a question","a answer",true,1,1
@@ -65,3 +66,5 @@ double,"CATEGORY 6",1200,"a question","a answer",false,6,3
 double,"CATEGORY 6",1600,"a question","a answer",false,6,4
 double,"CATEGORY 6",2000,"a question","a answer",false,6,5
 final,"FINAL CATEGORY",0,"a question","a answer",false,1,1
+```
+Share your Custom .csv Files to this github!
