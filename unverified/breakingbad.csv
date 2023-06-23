@@ -1,0 +1,62 @@
+round,cat,val,q,a,dd,x,y
+jeopardy,"Characters",200,"Who is the main protagonist of Breaking Bad?", "Walter White",false,1,1
+jeopardy,"Characters",400,"Who is Walter White's former student and partner in the meth business?", "Jesse Pinkman",false,1,2
+jeopardy,"Characters",600,"Who is the DEA agent obsessed with catching Walter White?", "Hank Schrader",false,1,3
+jeopardy,"Characters",800,"Who is Walter White's wife?", "Skyler White",false,1,4
+jeopardy,"Characters",1000,"Who is the lawyer who becomes involved with Walter White and Jesse Pinkman?", "Saul Goodman",false,1,5
+jeopardy,"Episodes",200,"In which episode does Walter White first start cooking meth?", "Pilot",false,2,1
+jeopardy,"Episodes",400,"In which episode does the plane crash happen?", "ABQ",false,2,2
+jeopardy,"Episodes",600,"In which episode does Gus Fring die?", "Face Off",false,2,3
+jeopardy,"Episodes",800,"In which episode does Walter White poison Brock?", "End Times",false,2,4
+jeopardy,"Episodes",1000,"In which episode does Walter White confront Tuco Salamanca?", "Crazy Handful of Nothin'",false,2,5
+jeopardy,"Quotes",200,"Finish the quote: 'I am the _______.'", "one who knocks",false,3,1
+jeopardy,"Quotes",400,"Finish the quote: 'Say my name. _______.'", "Heisenberg",false,3,2
+jeopardy,"Quotes",600,"Finish the quote: 'I did it for _______.'", "me",false,3,3
+jeopardy,"Quotes",800,"Finish the quote: 'I'm in the _______ business.'", "empire",false,3,4
+jeopardy,"Quotes",1000,"Finish the quote: 'Tread _______.'", "lightly",false,3,5
+jeopardy,"Trivia",200,"Where is Breaking Bad primarily set?", "Albuquerque, New Mexico",false,4,1
+jeopardy,"Trivia",400,"Who is the creator of Breaking Bad?", "Vince Gilligan",false,4,2
+jeopardy,"Trivia",600,"What is the street name for the blue meth in Breaking Bad?", "Blue Sky",false,4,3
+jeopardy,"Trivia",800,"What is the name of the car wash that Walter White and Skyler White buy?", "A1A Car Wash",false,4,4
+jeopardy,"Trivia",1000,"What is the nickname given to the superlab used by Gus Fring?", "The Laundry",false,4,5
+jeopardy,"Deaths",200,"Who is the first major character to die in Breaking Bad?", "Krazy-8",false,5,1
+jeopardy,"Deaths",400,"Who kills Gustavo Fring?", "Hector Salamanca",false,5,2
+jeopardy,"Deaths",600,"Who is responsible for the death of Jane Margolis?", "Walter White",false,5,3
+jeopardy,"Deaths",800,"Who kills Todd Alquist?", "Jesse Pinkman",false,5,4
+jeopardy,"Deaths",1000,"Who is responsible for the death of Mike Ehrmantraut?", "Walter White",false,5,5
+jeopardy,"Trivia 2",200,"What is the chemical element used in the meth production in Breaking Bad?", "Methylamine",false,6,1
+jeopardy,"Trivia 2",400,"What is the name of the chicken restaurant chain owned by Gus Fring?", "Los Pollos Hermanos",false,6,2
+jeopardy,"Trivia 2",600,"What is the color of the meth produced by Walter White?", "Blue",false,6,3
+jeopardy,"Trivia 2",800,"What is the name of the cartel involved in the meth trade?", "Juarez Cartel",false,6,4
+jeopardy,"Trivia 2",1000,"What is the name of the criminal lawyer who represents Badger?", "Saul Goodman",false,6,5
+double,"Characters",400,"Who is the main antagonist of Breaking Bad?", "Gustavo Fring",false,1,1
+double,"Characters",800,"Who is the DEA agent who eventually discovers Walter White's true identity?", "Hank Schrader",false,1,2
+double,"Characters",1200,"Who is the chemist who helps Walter and Jesse with their meth production?", "Gale Boetticher",false,1,3
+double,"Characters",1600,"Who is the drug lord in Mexico who becomes a rival to Walter White?", "Hector Salamanca",false,1,4
+double,"Characters",2000,"Who is the hitman hired by Gustavo Fring?", "Mike Ehrmantraut",false,1,5
+double,"Episodes",400,"In which episode does Jane Margolis die?", "Phoenix",false,2,1
+double,"Episodes",800,"In which episode does Walter White poison Lydia Rodarte-Quayle?", "Felina",false,2,2
+double,"Episodes",1200,"In which episode does Walter White use a machine gun to kill Jack Welker and his gang?", "Ozymandias",false,2,3
+double,"Episodes",1600,"In which episode does Walter White confess to Skyler about his actions?", "Confessions",false,2,4
+double,"Episodes",2000,"In which episode does Walter White fake his own death?", "Granite State",false,2,5
+double,"Quotes",400,"Finish the quote: 'I'm in the empire _______.'", "business",false,3,1
+double,"Quotes",800,"Finish the quote: 'I did it for me. I liked it. I was _______ at it. And I was really... I was alive.'", "good",false,3,2
+double,"Quotes",1200,"Finish the quote: 'Say my name. _______.'", "Heisenberg",false,3,3
+double,"Quotes",1600,"Finish the quote: 'I'm not in danger, Skyler. I am the _______.'", "danger",false,3,4
+double,"Quotes",2000,"Finish the quote: 'Yeah, _______ science!'", "magnets",false,3,5
+double,"Trivia",400,"What is the nickname given to Walter White's alter ego?", "Heisenberg",false,4,1
+double,"Trivia",800,"What is the name of the fictional methamphetamine used in Breaking Bad?", "Blue Sky",false,4,2
+double,"Trivia",1200,"What is the name of the chemical compound used to dissolve bodies in Breaking Bad?", "Hydrofluoric acid",false,4,3
+double,"Trivia",1600,"What is the name of the song played during the opening credits of Breaking Bad?", "The title theme",false,4,4
+double,"Trivia",2000,"What is the color of the methylamine barrels used in the meth production?", "Green",false,4,5
+double,"Deaths",400,"Who kills Tuco Salamanca?", "Hank Schrader",false,5,1
+double,"Deaths",800,"Who kills Gustavo Fring?", "Hector Salamanca",false,5,2
+double,"Deaths",1200,"Who kills Leonel and Marco Salamanca?", "Hank Schrader",false,5,3
+double,"Deaths",1600,"Who kills Jack Welker?", "Walter White",false,5,4
+double,"Deaths",2000,"Who kills Krazy-8?", "Walter White",false,5,5
+double,"Trivia 2",400,"What is the nickname given to the RV used by Walter and Jesse for cooking meth?", "The Krystal Ship",false,6,1
+double,"Trivia 2",800,"What is the name of the company where Walter White works as a chemistry teacher?", "J. P. Wynne High School",false,6,2
+double,"Trivia 2",1200,"What is the name of the book written by Gale Boetticher?", "Leaves of Grass",false,6,3
+double,"Trivia 2",1600,"What is the name of Jesse Pinkman's drug-addicted girlfriend?", "Jane Margolis",false,6,4
+double,"Trivia 2",2000,"What is the name of the song played during the final scene of Breaking Bad?", "Baby Blue",false,6,5
+final,"Final Category",0,"What is the full name of Walter White's alter ego?", "Heisenberg",false,1,1

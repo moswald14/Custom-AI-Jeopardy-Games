@@ -1,0 +1,62 @@
+round,cat,val,q,a,dd,x,y
+jeopardy,"A CATEGORY",200,"What is the name of the main playable island in Fortnite Battle Royale?","The Island",true,1,1
+jeopardy,"A CATEGORY",400,"Which item in Fortnite allows players to quickly build structures?","Building materials",false,1,2
+jeopardy,"A CATEGORY",600,"What is the name of the currency used in Fortnite to purchase cosmetic items?","V-Bucks",false,1,3
+jeopardy,"A CATEGORY",800,"Which company developed Fortnite?","Epic Games",false,1,4
+jeopardy,"A CATEGORY",1000,"What is the name of the popular dance emote in Fortnite known for its catchy music?","The Floss",false,1,5
+jeopardy,"ANOTHER CATEGORY",200,"What is the name of the game mode in Fortnite where players work together to survive against hordes of zombies?","Save the World",false,2,1
+jeopardy,"ANOTHER CATEGORY",400,"Which major event in Fortnite marked the end of Chapter 1 and the transition to Chapter 2?","The Black Hole Event",false,2,2
+jeopardy,"ANOTHER CATEGORY",600,"What is the name of the floating island location in Fortnite Battle Royale?","Loot Lake",false,2,3
+jeopardy,"ANOTHER CATEGORY",800,"Which popular Marvel superhero has made appearances in Fortnite?","Iron Man",false,2,4
+jeopardy,"ANOTHER CATEGORY",1000,"What is the name of the limited-time game mode in Fortnite where players compete to be the last person standing?","Battle Royale",false,2,5
+jeopardy,"CATEGORY 3",200,"What is the name of the default harvesting tool in Fortnite?","Pickaxe",false,3,1
+jeopardy,"CATEGORY 3",400,"What is the maximum stack size for building materials in Fortnite?","999",false,3,2
+jeopardy,"CATEGORY 3",600,"Which popular musician collaborated with Fortnite to host a virtual concert in 2020?","Travis Scott",false,3,3
+jeopardy,"CATEGORY 3",800,"What is the name of the in-game vehicle in Fortnite that can carry multiple players?","The Quadcrasher",false,3,4
+jeopardy,"CATEGORY 3",1000,"What is the name of the first limited-time game mode in Fortnite that introduced the concept of respawning?","Solid Gold",false,3,5
+jeopardy,"CATEGORY 4",200,"What is the name of the iconic pickaxe with a llama design in Fortnite?","Bitemark",false,4,1
+jeopardy,"CATEGORY 4",400,"What is the name of the in-game location in Fortnite known for its large metal robot and monster statues?","Pressure Plant",false,4,2
+jeopardy,"CATEGORY 4",600,"What is the name of the game mode in Fortnite where players compete in various challenges to earn rewards?","Creative",false,4,3
+jeopardy,"CATEGORY 4",800,"What is the name of the rarest item rarity in Fortnite?","Mythic",false,4,4
+jeopardy,"CATEGORY 4",1000,"What is the name of the famous player and streamer who gained popularity through Fortnite?","Ninja",false,4,5
+jeopardy,"CATEGORY 5",200,"What is the name of the fictional metal in Fortnite that has special properties and is used for crafting powerful weapons?","Shadowshard",false,5,1
+jeopardy,"CATEGORY 5",400,"What is the name of the futuristic city location in Fortnite Battle Royale?","Neo Tilted",false,5,2
+jeopardy,"CATEGORY 5",600,"What is the name of the in-game event in Fortnite where players witnessed a massive volcano eruption?","The Unvaulting",false,5,3
+jeopardy,"CATEGORY 5",800,"Which popular gaming YouTuber is known for his Fortnite gameplay videos and entertaining commentary?","Ali-A",false,5,4
+jeopardy,"CATEGORY 5",1000,"What is the name of the in-game area in Fortnite that is covered in snow and ice?","Frosty Flights",false,5,5
+jeopardy,"CATEGORY 6",200,"What is the name of the futuristic vehicle in Fortnite that allows players to quickly traverse the map?","The Hoverboard",false,6,1
+jeopardy,"CATEGORY 6",400,"What is the name of the high-tier loot chest in Fortnite that contains powerful weapons and items?","Supply Llama",false,6,2
+jeopardy,"CATEGORY 6",600,"What is the name of the in-game event in Fortnite where players witnessed a massive flood covering the map?","The Device",false,6,3
+jeopardy,"CATEGORY 6",800,"Which popular actor and musician made a cameo appearance in Fortnite as a character named "Jules"?","Noah Cyrus",false,6,4
+jeopardy,"CATEGORY 6",1000,"What is the name of the in-game area in Fortnite that features a large, rotating purple cube?","Loot Lake Island",false,6,5
+double,"A CATEGORY",400,"What is the name of the limited-time game mode in Fortnite where players compete in teams to collect resources and build structures to defend against waves of husks?","Fortnite: Save the World",true,1,1
+double,"A CATEGORY",800,"Which location in Fortnite Battle Royale features a massive purple cube that moves and changes the landscape?","Kevin the Cube",true,1,2
+double,"A CATEGORY",1200,"What is the name of the iconic harvesting tool in Fortnite that resembles a large unicorn pickaxe?","Rainbow Smash",false,1,3
+double,"A CATEGORY",1600,"What is the name of the legendary assault rifle in Fortnite that is known for its accuracy and versatility?","Scar",false,1,4
+double,"A CATEGORY",2000,"What is the name of the in-game event in Fortnite where players witnessed a massive robot battling a giant monster?","The Final Showdown",false,1,5
+double,"ANOTHER CATEGORY",400,"What is the name of the explosive weapon in Fortnite that launches players into the air using a gust of wind?","Bouncer",false,2,1
+double,"ANOTHER CATEGORY",800,"What is the name of the futuristic city location in Fortnite Battle Royale that features advanced technology and flying vehicles?","Neo Tilted",false,2,2
+double,"ANOTHER CATEGORY",1200,"Which major sporting event had its own themed challenges and outfits in Fortnite, allowing players to represent their favorite teams?","Super Bowl",false,2,3
+double,"ANOTHER CATEGORY",1600,"What is the name of the legendary sniper rifle in Fortnite that can shoot through walls and structures?","Heavy Sniper Rifle",false,2,4
+double,"ANOTHER CATEGORY",2000,"What is the name of the limited-time game mode in Fortnite where players team up to take down a powerful boss enemy?","Battle Royale Boss Fight",false,2,5
+double,"CATEGORY 3",400,"What is the name of the in-game vehicle in Fortnite that can seat up to four players and has a built-in music player?","Quadcrasher",false,3,1
+double,"CATEGORY 3",800,"What is the name of the rarest and most powerful weapon in Fortnite that can only be obtained by eliminating the NPC boss at a specific location?","Mythic Goldfish",false,3,2
+double,"CATEGORY 3",1200,"What is the name of the energetic and catchy dance emote in Fortnite that became widely popular through social media challenges?","Orange Justice",false,3,3
+double,"CATEGORY 3",1600,"Which popular professional athlete and soccer player was featured as an unlockable outfit in Fortnite?","Neymar Jr.",false,3,4
+double,"CATEGORY 3",2000,"What is the name of the limited-time game mode in Fortnite where players battle it out with bows and explosive arrows?","High Explosives",false,3,5
+double,"CATEGORY 4",400,"What is the name of the explosive weapon in Fortnite that launches players into the air and allows them to glide using a large balloon?","Balloons",false,4,1
+double,"CATEGORY 4",800,"What is the name of the in-game location in Fortnite Battle Royale that is a popular spot for finding rare and powerful loot?","Fortnite: Salty Springs",false,4,2
+double,"CATEGORY 4",1200,"What is the name of the limited-time game mode in Fortnite where players compete in a race through obstacle-filled tracks using vehicles?","Fortnite: The Race",false,4,3
+double,"CATEGORY 4",1600,"What is the name of the legendary assault rifle in Fortnite that fires faster and deals more damage than the standard version?","Burst Assault Rifle",false,4,4
+double,"CATEGORY 4",2000,"What is the name of the in-game event in Fortnite where players witnessed a massive cube exploding and sending them into a new dimension?","The End",false,4,5
+double,"CATEGORY 5",400,"What is the name of the rare consumable item in Fortnite that grants players increased speed and the ability to phase through walls?","Shadow Stone",false,5,1
+double,"CATEGORY 5",800,"What is the name of the futuristic city location in Fortnite Battle Royale?","Neo Tilted",false,5,2
+double,"CATEGORY 5",1200,"What is the name of the in-game event in Fortnite where players witnessed a massive volcano eruption?","The Unvaulting",false,5,3
+double,"CATEGORY 5",1600,"Which popular gaming YouTuber is known for his Fortnite gameplay videos and entertaining commentary?","Ali-A",false,5,4
+double,"CATEGORY 5",2000,"What is the name of the in-game area in Fortnite that is covered in snow and ice?","Frosty Flights",false,5,5
+double,"CATEGORY 6",400,"What is the name of the futuristic vehicle in Fortnite that allows players to quickly traverse the map?","The Hoverboard",false,6,1
+double,"CATEGORY 6",800,"What is the name of the high-tier loot chest in Fortnite that contains powerful weapons and items?","Supply Llama",false,6,2
+double,"CATEGORY 6",1200,"What is the name of the in-game event in Fortnite where players witnessed a massive flood covering the map?","The Device",false,6,3
+double,"CATEGORY 6",1600,"Which popular actor and musician made a cameo appearance in Fortnite as a character named "Jules"?","Noah Cyrus",false,6,4
+double,"CATEGORY 6",2000,"What is the name of the in-game area in Fortnite that features a large, rotating purple cube?","Loot Lake Island",false,6,5
+final,"FINAL CATEGORY",0,"In Fortnite Battle Royale, what is the name of the rarest and most coveted item that signifies a player's victory in a match?","Victory Royale",false,1,1

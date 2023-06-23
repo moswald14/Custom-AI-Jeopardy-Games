@@ -1,0 +1,62 @@
+round,cat,val,q,a,dd,x,y
+jeopardy,"Always Sunny in Philadelphia",200,"Which character is known for his wild conspiracy theories and illiteracy?", "Charlie Kelly",true,1,1
+jeopardy,"Always Sunny in Philadelphia",400,"What is the name of the bar where the main characters hang out?", "Paddy's Pub",false,1,2
+jeopardy,"Always Sunny in Philadelphia",600,"Who is the only character that has never left the show and appeared in every episode?", "Charlie Kelly",false,1,3
+jeopardy,"Always Sunny in Philadelphia",800,"What is the name of the gang's dysfunctional lawyer?", "Frank Reynolds",false,1,4
+jeopardy,"Always Sunny in Philadelphia",1000,"Which character frequently mentions his "bird law" expertise?", "Charlie Kelly",false,1,5
+jeopardy,"Quotes",200,"Finish the quote: 'Wildcard, bitches! Yeehaw!'", "I'm gonna'",false,2,1
+jeopardy,"Quotes",400,"Finish the quote: 'I will eat your _____!'", "babies",false,2,2
+jeopardy,"Quotes",600,"Finish the quote: 'I'm not fat. I'm _____.'", "cultivating mass",false,2,3
+jeopardy,"Quotes",800,"Finish the quote: 'Rum ham!'", "",false,2,4
+jeopardy,"Quotes",1000,"Finish the quote: 'I'm gonna get real _____ with it.'", "weird",false,2,5
+jeopardy,"Obsessions",200,"What is Mac's obsession?", "His body and physical fitness",false,3,1
+jeopardy,"Obsessions",400,"What is Dee's obsession?", "Becoming an actress",false,3,2
+jeopardy,"Obsessions",600,"What is Dennis' obsession?", "Manipulating women and his "tools"",false,3,3
+jeopardy,"Obsessions",800,"What is Frank's obsession?", "Money and questionable business schemes",false,3,4
+jeopardy,"Obsessions",1000,"What is Charlie's obsession?", "The Waitress and creating the Dayman",false,3,5
+jeopardy,"The Gang's Names",200,"What is Mac's full name?", "Ronald McDonald",false,4,1
+jeopardy,"The Gang's Names",400,"What is Dee's full name?", "Deandra Reynolds",false,4,2
+jeopardy,"The Gang's Names",600,"What is Dennis' full name?", "Dennis Reynolds",false,4,3
+jeopardy,"The Gang's Names",800,"What is Frank's full name?", "Frank Reynolds",false,4,4
+jeopardy,"The Gang's Names",1000,"What is Charlie's full name?", "Charlie Kelly",false,4,5
+jeopardy,"Mac's Moves",200,"What is the name of Mac's signature karate move?", "The Thunder Gun Express",false,5,1
+jeopardy,"Mac's Moves",400,"What dance does Mac perform in the episode "The Gang Goes on Family Fight"?", "The Electric Slide",false,5,2
+jeopardy,"Mac's Moves",600,"What is the name of Mac's workout routine?", "Project Badass",false,5,3
+jeopardy,"Mac's Moves",800,"What sport does Mac become obsessed with in the episode "Mac Finds His Pride"?", "American football",false,5,4
+jeopardy,"Mac's Moves",1000,"What is Mac's favorite action movie?", "Rambo: First Blood",false,5,5
+jeopardy,"Trivia",200,"In which city is "It's Always Sunny in Philadelphia" set?", "Philadelphia",false,6,1
+jeopardy,"Trivia",400,"Who created "It's Always Sunny in Philadelphia"?", "Rob McElhenney",false,6,2
+jeopardy,"Trivia",600,"Which character owns a bar stool with his name on it?", "Mac",false,6,3
+jeopardy,"Trivia",800,"Which character is known for his love of denim?", "Charlie Kelly",false,6,4
+jeopardy,"Trivia",1000,"What is the name of the character played by Danny DeVito?", "Frank Reynolds",false,6,5
+double,"Favorite Episodes",400,"Which episode features the gang going on a cruise?", "The Gang Goes on a Cruise",true,1,1
+double,"Favorite Episodes",800,"Which episode features the gang getting trapped in a water park?", "The Gang Goes to a Water Park",true,1,2
+double,"Favorite Episodes",1200,"Which episode features the gang competing in a flip cup tournament?", "The Gang Beats Boggs",false,1,3
+double,"Favorite Episodes",1600,"Which episode features the gang trying to win an award for the bar?", "The Gang Tries Desperately to Win an Award",false,1,4
+double,"Favorite Episodes",2000,"Which episode features the gang going to the Jersey Shore?", "The Gang Goes to the Jersey Shore",false,1,5
+double,"Catchphrases",400,"Finish the catchphrase: 'The gang _______.'", "dances",true,2,1
+double,"Catchphrases",800,"Finish the catchphrase: 'Wildcard, _______!'", "bitches",true,2,2
+double,"Catchphrases",1200,"Finish the catchphrase: 'I'm not fat. I'm _______.'", "cultivating mass",false,2,3
+double,"Catchphrases",1600,"Finish the catchphrase: '_______ all the rules!'", "Breaking",false,2,4
+double,"Catchphrases",2000,"Finish the catchphrase: 'I'm gonna get real _______ with it.'", "weird",false,2,5
+double,"The Waitress",400,"What is the name of the character referred to as "The Waitress"?", "Nikki Potnick",false,3,1
+double,"The Waitress",800,"Which character is infatuated with "The Waitress"?", "Charlie Kelly",false,3,2
+double,"The Waitress",1200,"Who does "The Waitress" end up marrying?", "Brad Fisher",false,3,3
+double,"The Waitress",1600,"Which character once dated "The Waitress"?", "Dennis Reynolds",false,3,4
+double,"The Waitress",2000,"What is the name of "The Waitress"' daughter?", "Diane",false,3,5
+double,"Dee's Transformations",400,"What is the name of the character Dee pretends to be in the episode "The Gang Goes on Family Fight"?", "Ellen Thompson",false,4,1
+double,"Dee's Transformations",800,"What is the name of the character Dee pretends to be in the episode "The Gang Group Dates"?", "Ruby Taft",false,4,2
+double,"Dee's Transformations",1200,"What is the name of the character Dee pretends to be in the episode "The Gang Misses the Boat"?", "Martina Martinez",false,4,3
+double,"Dee's Transformations",1600,"What is the name of the character Dee pretends to be in the episode "The Gang Squashes Their Beefs"?", "Jackie Denardo",false,4,4
+double,"Dee's Transformations",2000,"What is the name of the character Dee pretends to be in the episode "The Gang Goes to Hell: Part Two"?", "Marta",false,4,5
+double,"Mac and Dennis' Scheme",400,"What is the name of the scheme Mac and Dennis create to pick up women?", "The D.E.N.N.I.S. System",false,5,1
+double,"Mac and Dennis' Scheme",800,"What is the name of the scheme Mac and Dennis create to get free food?", "Charlie Work",false,5,2
+double,"Mac and Dennis' Scheme",1200,"What is the name of the scheme Mac and Dennis create to win the bar award?", "The Anti-Social Network",false,5,3
+double,"Mac and Dennis' Scheme",1600,"What is the name of the scheme Mac and Dennis create to get out of paying their bills?", "The Maureen Ponderosa Wedding Massacre",false,5,4
+double,"Mac and Dennis' Scheme",2000,"What is the name of the scheme Mac and Dennis create to gain political power?", "The Gang Runs for Office",false,5,5
+double,"Rum Ham",400,"What is the name of the episode where Frank creates "rum ham"?", "The Gang Goes to the Jersey Shore",false,6,1
+double,"Rum Ham",800,"In which location does Frank lose the original "rum ham"?", "The Jersey Shore",false,6,2
+double,"Rum Ham",1200,"What is the main ingredient of "rum ham"?", "Rum and ham",false,6,3
+double,"Rum Ham",1600,"What is the name of the fictional island where Frank's "rum ham" is lost?", "The Ass Pounder 4000",false,6,4
+double,"Rum Ham",2000,"What happens to the "rum ham" in the episode?", "It floats away and is eaten by a pelican",false,6,5
+final,"Final Category",0,"What is the name of the bar's resident bartender?", "Mac",false,1,1

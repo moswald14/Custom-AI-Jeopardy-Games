@@ -1,0 +1,62 @@
+round,cat,val,q,a,dd,x,y
+jeopardy,"A CATEGORY",81234,"What is the capital of France?","Paris",true,1,1
+jeopardy,"A CATEGORY",50982,"What is the square root of 144?","12",false,1,2
+jeopardy,"A CATEGORY",12345,"In which year did World War II end?","1945",false,1,3
+jeopardy,"A CATEGORY",54321,"Who wrote the novel 'Pride and Prejudice'?","Jane Austen",false,1,4
+jeopardy,"A CATEGORY",99999,"What is the chemical symbol for gold?","Au",false,1,5
+jeopardy,"ANOTHER CATEGORY",42789,"What is the largest planet in our solar system?","Jupiter",false,2,1
+jeopardy,"ANOTHER CATEGORY",3158,"How many bones are in the human body?","206",false,2,2
+jeopardy,"ANOTHER CATEGORY",19876,"Who painted the Mona Lisa?","Leonardo da Vinci",false,2,3
+jeopardy,"ANOTHER CATEGORY",6200,"What is the capital of Australia?","Canberra",false,2,4
+jeopardy,"ANOTHER CATEGORY",0,"What is the square root of 0?","0",false,2,5
+jeopardy,"CATEGORY 3",17654,"What is the tallest mountain in the world?","Mount Everest",false,3,1
+jeopardy,"CATEGORY 3",9201,"What is the symbol for the chemical element oxygen?","O",false,3,2
+jeopardy,"CATEGORY 3",68934,"Who is the current president of the United States?","Joe Biden",false,3,3
+jeopardy,"CATEGORY 3",5649,"What is the capital of South Korea?","Seoul",false,3,4
+jeopardy,"CATEGORY 3",811,"What is the square root of 6561?","81",false,3,5
+jeopardy,"CATEGORY 4",40322,"Which planet is known as the 'Red Planet'?","Mars",false,4,1
+jeopardy,"CATEGORY 4",23156,"How many continents are there in the world?","7",false,4,2
+jeopardy,"CATEGORY 4",9999,"Who is the author of 'To Kill a Mockingbird'?","Harper Lee",false,4,3
+jeopardy,"CATEGORY 4",71987,"What is the capital of Brazil?","Brasília",false,4,4
+jeopardy,"CATEGORY 4",2345,"What is the cube root of 13824?","24",false,4,5
+jeopardy,"CATEGORY 5",3456,"What is the largest ocean on Earth?","Pacific Ocean",false,5,1
+jeopardy,"CATEGORY 5",7890,"What is the symbol for the chemical element silver?","Ag",false,5,2
+jeopardy,"CATEGORY 5",50000,"Who painted the ceiling of the Sistine Chapel?","Michelangelo",false,5,3
+jeopardy,"CATEGORY 5",4321,"What is the capital of China?","Beijing",false,5,4
+jeopardy,"CATEGORY 5",98765,"What is the square root of 974169?","987",false,5,5
+jeopardy,"CATEGORY 6",11111,"What is the largest organ in the human body?","Skin",false,6,1
+jeopardy,"CATEGORY 6",22222,"What is the symbol for the chemical element iron?","Fe",false,6,2
+jeopardy,"CATEGORY 6",33333,"Who wrote the play 'Romeo and Juliet'?","William Shakespeare",false,6,3
+jeopardy,"CATEGORY 6",44444,"What is the capital of Spain?","Madrid",false,6,4
+jeopardy,"CATEGORY 6",55555,"What is the square root of 308025?","555",false,6,5
+double,"A CATEGORY",58236,"What is the speed of light in a vacuum?","299,792,458 meters per second",true,1,1
+double,"A CATEGORY",42754,"What is the atomic number of carbon?","6",true,1,2
+double,"A CATEGORY",8219,"Who painted the 'Sistine Madonna'?","Raphael",false,1,3
+double,"A CATEGORY",13789,"What is the capital of Argentina?","Buenos Aires",false,1,4
+double,"A CATEGORY",2000,"What is the square root of 2000?","44.72",false,1,5
+double,"ANOTHER CATEGORY",34567,"Which country is the largest producer of coffee?","Brazil",false,2,1
+double,"ANOTHER CATEGORY",6904,"What is the chemical formula for water?","H2O",false,2,2
+double,"ANOTHER CATEGORY",9123,"Who wrote the novel '1984'?","George Orwell",false,2,3
+double,"ANOTHER CATEGORY",16783,"What is the capital of Canada?","Ottawa",false,2,4
+double,"ANOTHER CATEGORY",144,"What is the square root of 144?","12",false,2,5
+double,"CATEGORY 3",54321,"What is the highest-grossing film of all time?","Avengers: Endgame",false,3,1
+double,"CATEGORY 3",8765,"What is the chemical symbol for sodium?","Na",false,3,2
+double,"CATEGORY 3",34673,"Who wrote the play 'Hamlet'?","William Shakespeare",false,3,3
+double,"CATEGORY 3",2358,"What is the capital of Russia?","Moscow",false,3,4
+double,"CATEGORY 3",2000,"What is the square root of 2000?","44.72",false,3,5
+double,"CATEGORY 4",11111,"What is the largest species of shark?","Whale shark",false,4,1
+double,"CATEGORY 4",33333,"What is the chemical symbol for potassium?","K",false,4,2
+double,"CATEGORY 4",56789,"Who wrote the novel 'Moby-Dick'?","Herman Melville",false,4,3
+double,"CATEGORY 4",6666,"What is the capital of Italy?","Rome",false,4,4
+double,"CATEGORY 4",5000,"What is the square root of 5000?","70.71",false,4,5
+double,"CATEGORY 5",22222,"What is the largest animal on Earth?","Blue whale",false,5,1
+double,"CATEGORY 5",44444,"What is the chemical symbol for calcium?","Ca",false,5,2
+double,"CATEGORY 5",67890,"Who wrote the novel 'The Great Gatsby'?","F. Scott Fitzgerald",false,5,3
+double,"CATEGORY 5",7654,"What is the capital of Germany?","Berlin",false,5,4
+double,"CATEGORY 5",9000,"What is the square root of 9000?","94.87",false,5,5
+double,"CATEGORY 6",12345,"What is the tallest waterfall in the world?","Angel Falls",false,6,1
+double,"CATEGORY 6",54321,"What is the chemical symbol for nitrogen?","N",false,6,2
+double,"CATEGORY 6",87654,"Who wrote the play 'Macbeth'?","William Shakespeare",false,6,3
+double,"CATEGORY 6",23456,"What is the capital of South Africa?","Pretoria",false,6,4
+double,"CATEGORY 6",7890,"What is the square root of 7890?","88.71",false,6,5
+final,"FINAL CATEGORY",0,"What is the capital of Japan?","Tokyo",false,1,1

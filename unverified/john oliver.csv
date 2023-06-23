@@ -1,0 +1,62 @@
+round,cat,val,q,a,dd,x,y
+jeopardy,"A CATEGORY",200,"Who is the host of Last Week Tonight?", "John Oliver",true,1,1
+jeopardy,"A CATEGORY",400,"Which comedian was a correspondent on The Daily Show?", "John Oliver",false,1,2
+jeopardy,"A CATEGORY",600,"Who voiced the character Zazu in the 2019 film The Lion King?", "John Oliver",false,1,3
+jeopardy,"A CATEGORY",800,"Which HBO show features comedic deep dives into various topics?", "John Oliver",false,1,4
+jeopardy,"A CATEGORY",1000,"Who won multiple Primetime Emmy Awards for Outstanding Variety Talk Series?", "John Oliver",false,1,5
+jeopardy,"ANOTHER CATEGORY",200,"What is the name of John Oliver's weekly news satire program?", "John Oliver",false,2,1
+jeopardy,"ANOTHER CATEGORY",400,"Which British-born comedian hosted the 2019 Academy Awards?", "John Oliver",false,2,2
+jeopardy,"ANOTHER CATEGORY",600,"Who played the role of Professor Ian Duncan on the TV show Community?", "John Oliver",false,2,3
+jeopardy,"ANOTHER CATEGORY",800,"Which late-night talk show features segments like 'And Now This' and 'How Is This Still a Thing?'", "John Oliver",false,2,4
+jeopardy,"ANOTHER CATEGORY",1000,"Who released the stand-up comedy specials 'Terrifying Times' and 'Falling from Grace'?", "John Oliver",false,2,5
+jeopardy,"CATEGORY 3",200,"Which comedian was born in Birmingham, England?", "John Oliver",false,3,1
+jeopardy,"CATEGORY 3",400,"Who guest-starred as Wax Sherlock Holmes on the TV show Rick and Morty?", "John Oliver",false,3,2
+jeopardy,"CATEGORY 3",600,"Who portrayed the character Vanity Smurf in the film The Smurfs?", "John Oliver",false,3,3
+jeopardy,"CATEGORY 3",800,"Which comedian voiced the character Tunnel King in the animated film The Dark Knight Returns, Part 2?", "John Oliver",false,3,4
+jeopardy,"CATEGORY 3",1000,"Who wrote and starred in the comedy series John Oliver's New York Stand-Up Show?", "John Oliver",false,3,5
+jeopardy,"CATEGORY 4",200,"Who played the character Harry in the 2019 film Wonder Park?", "John Oliver",false,4,1
+jeopardy,"CATEGORY 4",400,"Which comedian won a Primetime Emmy Award for Outstanding Writing for a Variety Series?", "John Oliver",false,4,2
+jeopardy,"CATEGORY 4",600,"Who voiced the character Vanity Smurf in the film Smurfs: The Lost Village?", "John Oliver",false,4,3
+jeopardy,"CATEGORY 4",800,"Which HBO show often features a segment called 'How Is This Still a Thing?'", "John Oliver",false,4,4
+jeopardy,"CATEGORY 4",1000,"Who hosted the 2018 Primetime Emmy Awards?", "John Oliver",false,4,5
+jeopardy,"CATEGORY 5",200,"Who played the character Dr. Hawk in the TV series The Simpsons?", "John Oliver",false,5,1
+jeopardy,"CATEGORY 5",400,"Which comedian appeared in the films The Love Guru and The Smurfs 2?", "John Oliver",false,5,2
+jeopardy,"CATEGORY 5",600,"Who voiced the character Vanity Smurf in the film Smurfs: The Lost Village?", "John Oliver",false,5,3
+jeopardy,"CATEGORY 5",800,"Which British comedian became a US citizen in 2019?", "John Oliver",false,5,4
+jeopardy,"CATEGORY 5",1000,"Who delivered a viral takedown of FIFA in a segment on his show?", "John Oliver",false,5,5
+jeopardy,"CATEGORY 6",200,"Which comedian played the character Wax Sherlock Holmes on the TV show Rick and Morty?", "John Oliver",false,6,1
+jeopardy,"CATEGORY 6",400,"Who served as a correspondent on The Daily Show from 2006 to 2013?", "John Oliver",false,6,2
+jeopardy,"CATEGORY 6",600,"Who voiced the character Zazu in the 2019 film The Lion King?", "John Oliver",false,6,3
+jeopardy,"CATEGORY 6",800,"Which HBO show features in-depth segments on various topics?", "John Oliver",false,6,4
+jeopardy,"CATEGORY 6",1000,"Who won the Primetime Emmy Award for Outstanding Variety Talk Series in 2016, 2017, and 2019?", "John Oliver",false,6,5
+double,"A CATEGORY",400,"Who is known for his witty and satirical take on current events?", "John Oliver",true,1,1
+double,"A CATEGORY",800,"Which comedian is the host of a popular late-night HBO show?", "John Oliver",true,1,2
+double,"A CATEGORY",1200,"Who won the Primetime Emmy Award for Outstanding Writing for a Variety Series in 2018?", "John Oliver",false,1,3
+double,"A CATEGORY",1600,"Who voiced the character Vanity Smurf in the film Smurfs: The Lost Village?", "John Oliver",false,1,4
+double,"A CATEGORY",2000,"Which comedian released the comedy specials 'Terrifying Times' and 'Falling from Grace'?", "John Oliver",false,1,5
+double,"ANOTHER CATEGORY",400,"Who played the character Harry in the 2019 film Wonder Park?", "John Oliver",false,2,1
+double,"ANOTHER CATEGORY",800,"Which comedian hosted the 2018 Primetime Emmy Awards?", "John Oliver",false,2,2
+double,"ANOTHER CATEGORY",1200,"Who guest-starred as Wax Sherlock Holmes on the TV show Rick and Morty?", "John Oliver",false,2,3
+double,"ANOTHER CATEGORY",1600,"Who voiced the character Dr. Hawk in the TV series The Simpsons?", "John Oliver",false,2,4
+double,"ANOTHER CATEGORY",2000,"Which British-born comedian became a US citizen in 2019?", "John Oliver",false,2,5
+double,"CATEGORY 3",400,"Who served as a correspondent on The Daily Show from 2006 to 2013?", "John Oliver",false,3,1
+double,"CATEGORY 3",800,"Who portrayed the character Vanity Smurf in the film The Smurfs?", "John Oliver",false,3,2
+double,"CATEGORY 3",1200,"Who voiced the character Zazu in the 2019 film The Lion King?", "John Oliver",false,3,3
+double,"CATEGORY 3",1600,"Which HBO show features segments like 'And Now This' and 'How Is This Still a Thing?'", "John Oliver",false,3,4
+double,"CATEGORY 3",2000,"Who won multiple Primetime Emmy Awards for Outstanding Variety Talk Series?", "John Oliver",false,3,5
+double,"CATEGORY 4",400,"Who released the stand-up comedy specials 'Terrifying Times' and 'Falling from Grace'?", "John Oliver",false,4,1
+double,"CATEGORY 4",800,"Who played the role of Professor Ian Duncan on the TV show Community?", "John Oliver",false,4,2
+double,"CATEGORY 4",1200,"Which British comedian hosted the 2019 Academy Awards?", "John Oliver",false,4,3
+double,"CATEGORY 4",1600,"Who voiced the character Tunnel King in the animated film The Dark Knight Returns, Part 2?", "John Oliver",false,4,4
+double,"CATEGORY 4",2000,"Who wrote and starred in the comedy series John Oliver's New York Stand-Up Show?", "John Oliver",false,4,5
+double,"CATEGORY 5",400,"Who won the Primetime Emmy Award for Outstanding Variety Talk Series in 2016, 2017, and 2019?", "John Oliver",false,5,1
+double,"CATEGORY 5",800,"Who voiced the character Vanity Smurf in the film The Smurfs?", "John Oliver",false,5,2
+double,"CATEGORY 5",1200,"Which comedian appeared in the films The Love Guru and The Smurfs 2?", "John Oliver",false,5,3
+double,"CATEGORY 5",1600,"Who delivered a viral takedown of FIFA in a segment on his show?", "John Oliver",false,5,4
+double,"CATEGORY 5",2000,"Who hosted the 2019 Primetime Emmy Awards?", "John Oliver",false,5,5
+double,"CATEGORY 6",400,"Who played the character Wax Sherlock Holmes on the TV show Rick and Morty?", "John Oliver",false,6,1
+double,"CATEGORY 6",800,"Which comedian voiced the character Vanity Smurf in the film Smurfs: The Lost Village?", "John Oliver",false,6,2
+double,"CATEGORY 6",1200,"Who voiced the character Dr. Hawk in the TV series The Simpsons?", "John Oliver",false,6,3
+double,"CATEGORY 6",1600,"Who hosted the 2018 Primetime Emmy Awards?", "John Oliver",false,6,4
+double,"CATEGORY 6",2000,"Which comedian appeared in the films The Love Guru and The Smurfs 2?", "John Oliver",false,6,5
+final,"FINAL CATEGORY",0,"Who is the host of the HBO show Last Week Tonight?", "John Oliver",false,1,1
