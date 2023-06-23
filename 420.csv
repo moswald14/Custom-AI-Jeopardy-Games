@@ -1,0 +1,62 @@
+round,cat,val,q,a,dd,x,y
+jeopardy,"A CATEGORY",69,"What is the main psychoactive compound found in cannabis?","Tetrahydrocannabinol (THC)",true,1,1
+jeopardy,"A CATEGORY",420,"What is the term for a device used to consume cannabis by heating it to produce vapor without combustion?","Vaporizer",false,1,2
+jeopardy,"A CATEGORY",666,"What is the process of removing trichomes from cannabis plants to create a concentrated product?","Extraction",false,1,3
+jeopardy,"A CATEGORY",1337,"What is the traditional method of drying and curing cannabis buds?","Hang drying",false,1,4
+jeopardy,"A CATEGORY",710,"What is the name for cannabis strains that are low in THC and high in CBD?","CBD-dominant strains",false,1,5
+jeopardy,"ANOTHER CATEGORY",69,"What is the most common method of consuming cannabis orally?","Eating or ingesting",false,2,1
+jeopardy,"ANOTHER CATEGORY",420,"What is the term for the glass pipe used to smoke cannabis?","Bong",false,2,2
+jeopardy,"ANOTHER CATEGORY",666,"What is the active compound in cannabis responsible for its medicinal effects?","Cannabidiol (CBD)",false,2,3
+jeopardy,"ANOTHER CATEGORY",1337,"What is the process of crossbreeding different cannabis strains to create a new variety?","Hybridization",false,2,4
+jeopardy,"ANOTHER CATEGORY",710,"What is the slang term for the psychoactive effects of cannabis?","Getting high",false,2,5
+jeopardy,"CATEGORY 3",69,"What is the term for the tiny, crystal-like hairs found on cannabis buds?","Trichomes",false,3,1
+jeopardy,"CATEGORY 3",420,"What is the name for the handheld device used to light cannabis for smoking?","Lighter",false,3,2
+jeopardy,"CATEGORY 3",666,"What is the process of binding cannabis into a compact shape using heat and pressure?","Hashish production",false,3,3
+jeopardy,"CATEGORY 3",1337,"What is the term for the practice of consuming cannabis to alleviate symptoms of medical conditions?","Medical marijuana",false,3,4
+jeopardy,"CATEGORY 3",710,"What is the name for the dried flowers of the female cannabis plant?","Buds",false,3,5
+jeopardy,"CATEGORY 4",69,"What is the term for the mixture of cannabis and tobacco in a joint or blunt?","Spliff",false,4,1
+jeopardy,"CATEGORY 4",420,"What is the psychoactive cannabinoid found in cannabis plants besides THC?","Cannabigerol (CBG)",false,4,2
+jeopardy,"CATEGORY 4",666,"What is the name for the process of applying heat to activate the cannabinoids in cannabis?","Decarboxylation",false,4,3
+jeopardy,"CATEGORY 4",1337,"What is the term for cannabis strains that contain balanced levels of THC and CBD?","Balanced strains",false,4,4
+jeopardy,"CATEGORY 4",710,"What is the primary compound responsible for the distinctive aroma of cannabis?","Terpenes",false,4,5
+jeopardy,"CATEGORY 5",69,"What is the term for the practice of growing cannabis plants indoors using artificial lighting?","Indoor cultivation",false,5,1
+jeopardy,"CATEGORY 5",420,"What is the term for the process of removing male cannabis plants from the growing area to prevent pollination?","Sexing",false,5,2
+jeopardy,"CATEGORY 5",666,"What is the name for the small, individual units that make up a cannabis flower cluster?","Calyxes",false,5,3
+jeopardy,"CATEGORY 5",1337,"What is the term for the official documentation that allows individuals to use cannabis for medical purposes?","Medical marijuana card",false,5,4
+jeopardy,"CATEGORY 5",710,"What is the slang term for a large, high-quality cannabis bud?","Nug",false,5,5
+jeopardy,"CATEGORY 6",69,"What is the term for the sticky resin produced by cannabis plants that contains cannabinoids and terpenes?","Hash",false,6,1
+jeopardy,"CATEGORY 6",420,"What is the name for the method of consuming cannabis by placing it under the tongue?","Sublingual administration",false,6,2
+jeopardy,"CATEGORY 6",666,"What is the process of blending different cannabis strains to create a customized combination?","Mixing",false,6,3
+jeopardy,"CATEGORY 6",1337,"What is the term for the practice of consuming cannabis by inhaling the vapor produced by a vaporizer?","Vaping",false,6,4
+jeopardy,"CATEGORY 6",710,"What is the name for the practice of using small amounts of cannabis to enhance focus and creativity?","Microdosing",false,6,5
+double,"A CATEGORY",420,"What is the term for the dried cannabis leaves used for smoking?","Marijuana",true,1,1
+double,"A CATEGORY",800,"What is the name for the event where people gather to smoke cannabis together?","Smoke session",true,1,2
+double,"A CATEGORY",1200,"What is the slang term for a strong-smelling cannabis strain?","Dank",false,1,3
+double,"A CATEGORY",1600,"What is the process of separating the resin glands from the cannabis plant material?","Kief extraction",false,1,4
+double,"A CATEGORY",2000,"What is the term for the cannabis-infused food or drink product?","Edible",false,1,5
+double,"ANOTHER CATEGORY",420,"What is the name for the concentrated cannabis product produced by compressing resin glands?","Hashish",false,2,1
+double,"ANOTHER CATEGORY",800,"What is the term for the condition where excessive cannabis consumption leads to temporary memory impairment?","Cannabis-induced short-term memory loss",false,2,2
+double,"ANOTHER CATEGORY",1200,"What is the name for the practice of using cannabis to enhance sexual experiences?","Cannabis-enhanced intimacy",false,2,3
+double,"ANOTHER CATEGORY",1600,"What is the term for the practice of consuming cannabis by applying it directly to the skin?","Topical application",false,2,4
+double,"ANOTHER CATEGORY",2000,"What is the name for the device used to cool and filter cannabis smoke?","Water pipe",false,2,5
+double,"CATEGORY 3",420,"What is the term for the process of creating cannabis concentrates using pressurized gas?","Butane hash oil (BHO) extraction",false,3,1
+double,"CATEGORY 3",800,"What is the name for the cannabis flower clusters that are unfertilized and produce high levels of cannabinoids?","Sinsemilla",false,3,2
+double,"CATEGORY 3",1200,"What is the term for the act of consuming cannabis by inhaling the smoke produced by burning it?","Smoking",false,3,3
+double,"CATEGORY 3",1600,"What is the name for the device used to grind cannabis buds into smaller pieces?","Grinder",false,3,4
+double,"CATEGORY 3",2000,"What is the term for the practice of using cannabis to enhance physical exercise or sports performance?","Cannabis and fitness",false,3,5
+double,"CATEGORY 4",420,"What is the slang term for a joint or blunt that is rolled using both cannabis and tobacco?","Spliff",false,4,1
+double,"CATEGORY 4",800,"What is the name for the technique of inhaling cannabis smoke and then holding it in the lungs for an extended period?","Ghosting",false,4,2
+double,"CATEGORY 4",1200,"What is the term for the glass container used to store cannabis buds?","Jar",false,4,3
+double,"CATEGORY 4",1600,"What is the name for the phenomenon where a person becomes anxious or paranoid after consuming cannabis?","Cannabis-induced anxiety",false,4,4
+double,"CATEGORY 4",2000,"What is the term for the practice of consuming cannabis by eating or drinking?","Oral consumption",false,4,5
+double,"CATEGORY 5",420,"What is the process of removing excess leaves from cannabis buds to improve the appearance and quality?","Trimming",false,5,1
+double,"CATEGORY 5",800,"What is the term for the act of inhaling cannabis smoke and then exhaling it through the nose?","Nose exhale",false,5,2
+double,"CATEGORY 5",1200,"What is the name for the device used to measure the temperature of a vaporizer?","Vaporizer thermometer",false,5,3
+double,"CATEGORY 5",1600,"What is the term for the practice of consuming cannabis by placing drops of tincture under the tongue?","Sublingual administration",false,5,4
+double,"CATEGORY 5",2000,"What is the name for the chemical compound found in black pepper that can help alleviate cannabis-induced anxiety?","Beta-caryophyllene",false,5,5
+double,"CATEGORY 6",420,"What is the slang term for a small, portable vaporizer used for cannabis consumption?","Vape pen",false,6,1
+double,"CATEGORY 6",800,"What is the term for the act of consuming cannabis by inhaling the smoke through a water pipe?","Bong rip",false,6,2
+double,"CATEGORY 6",1200,"What is the name for the device used to create a controlled environment for growing cannabis plants?","Grow tent",false,6,3
+double,"CATEGORY 6",1600,"What is the term for the practice of consuming cannabis by applying it to the skin in the form of a lotion or cream?","Topical cannabis application",false,6,4
+double,"CATEGORY 6",2000,"What is the slang term for a cannabis joint that is larger than average?","Fatty",false,6,5
+final,"FINAL CATEGORY",0,"What is the name of the first state in the United States to legalize recreational cannabis?","Colorado",false,1,1

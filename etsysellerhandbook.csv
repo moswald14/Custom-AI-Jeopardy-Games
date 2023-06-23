@@ -1,0 +1,62 @@
+round,cat,val,q,a,dd,x,y
+jeopardy,"A CATEGORY",200,"What is the purpose of the Etsy Seller Guidebook?","To provide guidance and resources for Etsy sellers",true,1,1
+jeopardy,"A CATEGORY",400,"What section of the Etsy Seller Guidebook covers shop policies?","Shop Policies and Best Practices",false,1,2
+jeopardy,"A CATEGORY",600,"Where can sellers find information about Etsy's seller fees?","In the Pricing and Payments section of the Guidebook",false,1,3
+jeopardy,"A CATEGORY",800,"What are some key tips for optimizing product listings, according to the Guidebook?","Use high-quality photos, write detailed descriptions, and include relevant tags",false,1,4
+jeopardy,"A CATEGORY",1000,"What resources are available in the Etsy Seller Guidebook to help sellers promote their shops?","Tips for marketing, social media strategies, and advertising options",false,1,5
+jeopardy,"ANOTHER CATEGORY",200,"What is the recommended way for sellers to handle customer inquiries and issues?","Promptly and professionally, with excellent customer service",false,2,1
+jeopardy,"ANOTHER CATEGORY",400,"Where can sellers find information about shipping and fulfillment on Etsy?","In the Shipping and Fulfillment section of the Guidebook",false,2,2
+jeopardy,"ANOTHER CATEGORY",600,"What are some best practices for creating effective product photos, as mentioned in the Guidebook?","Use natural lighting, showcase different angles, and provide scale references",false,2,3
+jeopardy,"ANOTHER CATEGORY",800,"What is the purpose of the Shop Stats feature on Etsy?","To provide sellers with insights and analytics about their shop's performance",false,2,4
+jeopardy,"ANOTHER CATEGORY",1000,"What are some strategies for building a brand identity on Etsy, according to the Guidebook?","Consistent branding, unique packaging, and personalized customer interactions",false,2,5
+jeopardy,"CATEGORY 3",200,"What is the significance of having clear shop policies on Etsy?","To set expectations for buyers and establish guidelines for transactions",false,3,1
+jeopardy,"CATEGORY 3",400,"How can sellers utilize the Etsy Seller Handbook in conjunction with the Etsy Seller Guidebook?","To access additional educational articles and resources for running a successful Etsy shop",false,3,2
+jeopardy,"CATEGORY 3",600,"What are some important considerations when pricing products on Etsy, according to the Guidebook?","Cost of materials, time invested, market demand, and competitive pricing",false,3,3
+jeopardy,"CATEGORY 3",800,"What is the purpose of the Etsy Advertising program?","To help sellers increase their visibility and reach more potential buyers on Etsy",false,3,4
+jeopardy,"CATEGORY 3",1000,"What are some tips for providing excellent customer service on Etsy?","Responding promptly, resolving issues satisfactorily, and communicating clearly",false,3,5
+jeopardy,"CATEGORY 4",200,"What is the importance of optimizing product titles and tags on Etsy?","To improve search visibility and help potential buyers find relevant products",false,4,1
+jeopardy,"CATEGORY 4",400,"What section of the Etsy Seller Guidebook covers intellectual property and copyright infringement?","Intellectual Property and Protecting Your Work",false,4,2
+jeopardy,"CATEGORY 4",600,"What are some strategies for effectively managing inventory on Etsy?","Tracking stock levels, utilizing listing variations, and planning for restocking",false,4,3
+jeopardy,"CATEGORY 4",800,"What is the purpose of the Etsy Seller Handbook?","To provide educational resources and tips for running a successful Etsy shop",false,4,4
+jeopardy,"CATEGORY 4",1000,"What are some recommended ways to promote listings outside of Etsy?","Social media marketing, collaborations, and participating in relevant communities",false,4,5
+jeopardy,"CATEGORY 5",200,"What are some benefits of participating in Etsy's Wholesale Marketplace?","Access to retail buyers, potential for bulk orders, and exposure to new markets",false,5,1
+jeopardy,"CATEGORY 5",400,"What is the significance of maintaining accurate and up-to-date inventory on Etsy?","To prevent overselling and provide accurate information to buyers",false,5,2
+jeopardy,"CATEGORY 5",600,"What are some best practices for writing engaging product descriptions on Etsy?","Highlight unique features, provide measurements, and use descriptive language",false,5,3
+jeopardy,"CATEGORY 5",800,"What is the purpose of the Etsy Community Forums?","To connect with other sellers, share knowledge, and seek advice",false,5,4
+jeopardy,"CATEGORY 5",1000,"What are some tips for optimizing shipping costs and methods on Etsy?","Calculating accurate shipping fees, offering multiple shipping options, and considering packaging materials",false,5,5
+jeopardy,"CATEGORY 6",200,"What is the significance of maintaining a cohesive brand aesthetic on Etsy?","To create a memorable and recognizable brand identity for buyers",false,6,1
+jeopardy,"CATEGORY 6",400,"What section of the Etsy Seller Guidebook covers marketing strategies for Etsy sellers?","Marketing and Promotion",false,6,2
+jeopardy,"CATEGORY 6",600,"What are some tips for managing customer reviews and feedback on Etsy?","Responding professionally, learning from feedback, and using it to improve",false,6,3
+jeopardy,"CATEGORY 6",800,"What is the purpose of the Etsy Seller Handbook?","To provide educational resources and tips for running a successful Etsy shop",false,6,4
+jeopardy,"CATEGORY 6",1000,"What are some strategies for expanding reach and growing sales on Etsy?","Optimizing SEO, offering discounts or promotions, and participating in Etsy campaigns",false,6,5
+double,"A CATEGORY",400,"What are some key elements to include in an effective Etsy shop announcement?","Shop updates, promotions, and important information for buyers",true,1,1
+double,"A CATEGORY",800,"What are some recommended ways to optimize product photography on Etsy?","Using natural lighting, showcasing product details, and capturing lifestyle shots",true,1,2
+double,"A CATEGORY",1200,"What are some strategies for effectively managing inventory on Etsy?","Tracking stock levels, utilizing listing variations, and planning for restocking",false,1,3
+double,"A CATEGORY",1600,"What are some best practices for writing compelling product titles on Etsy?","Using relevant keywords, emphasizing unique features, and being concise",false,1,4
+double,"A CATEGORY",2000,"What are some tips for providing exceptional customer service on Etsy?","Promptly responding to messages, resolving issues promptly, and going the extra mile for customers",false,1,5
+double,"ANOTHER CATEGORY",400,"What is the significance of optimizing tags and attributes for Etsy listings?","To improve search visibility and ensure listings appear in relevant searches",false,2,1
+double,"ANOTHER CATEGORY",800,"What are some strategies for effectively promoting listings within the Etsy marketplace?","Using Etsy Ads, offering discounts or sales, and participating in Etsy teams",false,2,2
+double,"ANOTHER CATEGORY",1200,"What are some recommended ways to handle international shipping on Etsy?","Understanding customs regulations, accurately calculating shipping fees, and providing clear information to international buyers",false,2,3
+double,"ANOTHER CATEGORY",1600,"What are some best practices for optimizing Etsy shop SEO?","Using relevant keywords, incorporating them in titles and tags, and regularly reviewing and updating SEO",false,2,4
+double,"ANOTHER CATEGORY",2000,"What are some strategies for effectively utilizing Etsy's marketing tools and features?","Promoting listings through social media, utilizing Etsy Ads, and participating in Etsy-sponsored events",false,2,5
+double,"CATEGORY 3",400,"What are some recommended ways to utilize social media for promoting an Etsy shop?","Creating engaging content, using relevant hashtags, and collaborating with influencers",false,3,1
+double,"CATEGORY 3",800,"What are some key elements to consider when designing an Etsy shop logo and banner?","Consistent branding, visual appeal, and conveying shop's style or niche",false,3,2
+double,"CATEGORY 3",1200,"What are some best practices for effectively packaging and shipping orders on Etsy?","Using sturdy packaging materials, adding personal touches, and providing tracking information to buyers",false,3,3
+double,"CATEGORY 3",1600,"What are some strategies for effectively utilizing Etsy's analytics and data insights?","Identifying top-performing listings, understanding buyer demographics, and adjusting marketing strategies based on data",false,3,4
+double,"CATEGORY 3",2000,"What are some recommended ways to handle customer inquiries and disputes on Etsy?","Responding promptly and professionally, offering solutions or refunds when necessary, and escalating to Etsy support if needed",false,3,5
+double,"CATEGORY 4",400,"What are some best practices for creating engaging product descriptions on Etsy?","Using descriptive language, highlighting unique features, and providing details on materials and measurements",false,4,1
+double,"CATEGORY 4",800,"What are some key elements to include in an effective Etsy shop policies page?","Payment and shipping policies, returns and exchanges information, and privacy policy",false,4,2
+double,"CATEGORY 4",1200,"What are some strategies for effectively utilizing Etsy's search ads?","Choosing relevant keywords, setting appropriate budgets, and regularly monitoring ad performance",false,4,3
+double,"CATEGORY 4",1600,"What are some recommended ways to handle customer feedback and reviews on Etsy?","Responding professionally and courteously, learning from feedback, and using it to improve products or services",false,4,4
+double,"CATEGORY 4",2000,"What are some strategies for expanding reach and sales through Etsy's international marketplaces?","Optimizing listings for international search, offering international shipping options, and understanding local market trends",false,4,5
+double,"CATEGORY 5",400,"What are some best practices for creating visually appealing product photos on Etsy?","Using props and styling, showcasing product in use, and capturing unique angles",false,5,1
+double,"CATEGORY 5",800,"What are some recommended ways to effectively communicate with buyers on Etsy?","Using clear and friendly language, providing updates on orders, and addressing any concerns promptly",false,5,2
+double,"CATEGORY 5",1200,"What are some strategies for effectively utilizing Etsy's seller tools and resources?","Tracking expenses and revenue with Etsy's tools, using the Seller Dashboard for insights, and participating in seller education programs",false,5,3
+double,"CATEGORY 5",1600,"What are some key elements to include in an effective Etsy shop About page?","Shop's story and inspiration, details about the products or creative process, and shop's mission or values",false,5,4
+double,"CATEGORY 5",2000,"What are some recommended ways to handle customer returns and exchanges on Etsy?","Clearly stating return policies, offering refunds or exchanges when appropriate, and providing excellent customer service throughout the process",false,5,5
+double,"CATEGORY 6",400,"What are some best practices for effectively utilizing Etsy's customer conversation feature?","Responding promptly and professionally, providing detailed information or answers, and using it as an opportunity to build relationships",false,6,1
+double,"CATEGORY 6",800,"What are some key elements to include in an effective Etsy shop announcement?","Shop updates, promotions, and important information for buyers",false,6,2
+double,"CATEGORY 6",1200,"What are some strategies for effectively utilizing Etsy's community spaces, such as forums and teams?","Engaging with other sellers, seeking advice or feedback, and sharing knowledge or experiences",false,6,3
+double,"CATEGORY 6",1600,"What are some recommended ways to handle negative feedback or reviews on Etsy?","Responding calmly and professionally, addressing the issue or offering a resolution, and learning from the feedback",false,6,4
+double,"CATEGORY 6",2000,"What are some strategies for effectively utilizing Etsy's promoted listings feature?","Choosing relevant keywords, setting appropriate budgets and bid amounts, and regularly monitoring and adjusting ad performance",false,6,5
+final,"FINAL CATEGORY",0,"What are the key elements to consider when creating a comprehensive marketing strategy for an Etsy shop?","Target audience identification, branding consistency, promotional channels selection, and performance tracking",false,1,1

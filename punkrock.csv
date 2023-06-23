@@ -1,0 +1,57 @@
+round,cat,val,q,a,dd,x,y
+jeopardy,"Punk History",200,"What year did punk rock emerge as a music genre?","1970s",true,1,1
+jeopardy,"Punk History",400,"Which city is often considered the birthplace of punk rock?","New York City",false,1,2
+jeopardy,"Punk History",600,"Who is credited with starting the punk rock movement?","Malcolm McLaren",false,1,3
+jeopardy,"Punk History",800,"Which punk band released the album 'Never Mind the Bollocks, Here's the Sex Pistols'?","Sex Pistols",false,1,4
+jeopardy,"Punk History",1000,"What punk band is known for the song 'Anarchy in the U.K.'?","Sex Pistols",false,1,5
+jeopardy,"Punk Bands",200,"Which punk band is famous for the song 'Blitzkrieg Bop'?","Ramones",false,2,1
+jeopardy,"Punk Bands",400,"Who is the lead vocalist of the punk band 'The Clash'?","Joe Strummer",false,2,2
+jeopardy,"Punk Bands",600,"Which punk band released the album 'London Calling'?","The Clash",false,2,3
+jeopardy,"Punk Bands",800,"Which punk band is known for the song 'I Wanna Be Sedated'?","Ramones",false,2,4
+jeopardy,"Punk Bands",1000,"Who is the lead singer of the punk band 'The Damned'?","Dave Vanian",false,2,5
+jeopardy,"Punk Fashion",200,"What type of jacket is often associated with punk fashion?","Leather jacket",false,3,1
+jeopardy,"Punk Fashion",400,"What is the name of the hairstyle associated with punk rock, featuring a long, spiked strip of hair?","Mohawk",false,3,2
+jeopardy,"Punk Fashion",600,"Which punk band popularized safety pins as fashion accessories?","Sex Pistols",false,3,3
+jeopardy,"Punk Fashion",800,"What type of pants are commonly worn in punk fashion?","Ripped jeans",false,3,4
+jeopardy,"Punk Fashion",1000,"What color is often associated with punk fashion?","Black",false,3,5
+jeopardy,"Punk Lyrics",200,"Complete the lyrics: 'I'm a ______, I'm a rocker, I'm a roller, I'm a out-of-controller.'","Street punk",false,4,1
+jeopardy,"Punk Lyrics",400,"Complete the lyrics: 'Hey ho, let's go! Hey ho, let's go! ______ ______ ______ ______!'","They're forming in a straight line",false,4,2
+jeopardy,"Punk Lyrics",600,"Complete the lyrics: 'Anarchy for the U.K. It's coming sometime, and maybe ______.'","I give a wrong time, stop a traffic line",false,4,3
+jeopardy,"Punk Lyrics",800,"Complete the lyrics: 'Gabba gabba, hey! Gabba gabba, hey! ______ ______ ______ ______ ______ ______!'","Gabba gabba, hey! Gabba gabba, hey! Let's keep it in control",false,4,4
+jeopardy,"Punk Lyrics",1000,"Complete the lyrics: 'Teenage ______ ______, the prime time wasters.'","Teenage lobotomy, the prime time wasters",false,4,5
+jeopardy,"Punk Albums",200,"Which punk band released the album 'Fresh Fruit for Rotting Vegetables'?","Dead Kennedys",false,5,1
+jeopardy,"Punk Albums",400,"Which punk band released the album 'Dookie'?","Green Day",false,5,2
+jeopardy,"Punk Albums",600,"Which punk band released the album 'Horses'?","Patti Smith",false,5,3
+jeopardy,"Punk Albums",800,"Which punk band released the album 'Damaged'?","Black Flag",false,5,4
+jeopardy,"Punk Albums",1000,"Which punk band released the album 'Zen Arcade'?","Hüsker Dü",false,5,5
+jeopardy,"Punk Legends",200,"Who is often referred to as the 'Godfather of Punk'?","Iggy Pop",false,6,1
+jeopardy,"Punk Legends",400,"Which punk band is known for the song 'Holiday in Cambodia'?","Dead Kennedys",false,6,2
+jeopardy,"Punk Legends",600,"Who is the lead vocalist of the punk band 'X-Ray Spex'?","Poly Styrene",false,6,3
+jeopardy,"Punk Legends",800,"Which punk band is known for the song 'White Riot'?","The Clash",false,6,4
+jeopardy,"Punk Legends",1000,"Who is the lead vocalist of the punk band 'The Stooges'?","Iggy Pop",false,6,5
+double,"Punk Fashion",400,"What punk fashion accessory is often worn on the wrists or arms?","Studded bracelets",true,3,1
+double,"Punk Fashion",800,"What type of footwear is commonly associated with punk fashion?","Doc Martens",true,3,2
+double,"Punk Fashion",1200,"What type of print is often seen on punk clothing?","Plaid",false,3,3
+double,"Punk Fashion",1600,"What type of headgear is sometimes worn in punk fashion?","Beret",false,3,4
+double,"Punk Fashion",2000,"What type of jewelry is commonly worn in punk fashion?","Choker necklace",false,3,5
+double,"Punk Bands",400,"Who is the lead vocalist of the punk band 'Bad Religion'?","Greg Graffin",false,4,1
+double,"Punk Bands",800,"Which punk band released the album 'And Out Come the Wolves'?","Rancid",false,4,2
+double,"Punk Bands",1200,"Who is the lead singer of the punk band 'X'?","Exene Cervenka",false,4,3
+double,"Punk Bands",1600,"Which punk band released the album 'The Shape of Punk to Come'?","Refused",false,4,4
+double,"Punk Bands",2000,"Who is the lead vocalist of the punk band 'Black Flag'?","Henry Rollins",false,4,5
+double,"Punk History",400,"Which punk band released the song 'Holiday'?","Green Day",false,1,1
+double,"Punk History",800,"What is the name of the legendary punk venue located in New York City?","CBGB",false,1,2
+double,"Punk History",1200,"Which punk band released the album 'Machine Gun Etiquette'?","The Damned",false,1,3
+double,"Punk History",1600,"What is the name of the influential punk fanzine founded by Legs McNeil and John Holmstrom?","Punk Magazine",false,1,4
+double,"Punk History",2000,"Who is often credited with introducing punk fashion designer Vivienne Westwood to the Sex Pistols?","Malcolm McLaren",false,1,5
+double,"Punk Lyrics",400,"Complete the lyrics: 'I am an anti-coaster, I am an anti-man. ______ ______ ______ ______.'","I will only do you harm",false,2,1
+double,"Punk Lyrics",800,"Complete the lyrics: 'And I don't need to be corrected by ______ ______ ______ ______.'","The truth, hypocrisy and lies",false,2,2
+double,"Punk Lyrics",1200,"Complete the lyrics: 'Sheena is a punk rocker, ______ ______ ______ ______ ______ ______.'","Sheena is a punk rocker, Sheena is a punk rocker now",false,2,3
+double,"Punk Lyrics",1600,"Complete the lyrics: '________ ________ ________, you got your head all filled with lies.'","God save the queen, she ain't no human being",false,2,4
+double,"Punk Lyrics",2000,"Complete the lyrics: 'Oh, you're a dream, _______, I wish I could sleep.'","You're a dream, dear, I wish I could sleep",false,2,5
+double,"Punk Legends",400,"Which punk band is known for the song 'Ever Fallen in Love (With Someone You Shouldn't've)'?","Buzzcocks",false,5,1
+double,"Punk Legends",800,"Who is the lead singer of the punk band 'Dead Kennedys'?","Jello Biafra",false,5,2
+double,"Punk Legends",1200,"Which punk band is known for the song 'Orgasm Addict'?","Buzzcocks",false,5,3
+double,"Punk Legends",1600,"Who is the lead vocalist of the punk band 'Black Flag'?","Keith Morris",false,5,4
+double,"Punk Legends",2000,"Which punk band is known for the song 'Los Angeles'?","X",false,5,5
+final,"Punk Trivia",0,"Which punk band is often associated with the DIY ethic and the creation of the independent record label Epitaph Records?","Bad Religion",false,1,1

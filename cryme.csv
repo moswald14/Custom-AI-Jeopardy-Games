@@ -1,0 +1,62 @@
+round,cat,val,q,a,dd,x,y
+jeopardy,"Crimes",200,"What is the term for the unlawful killing of a person?", "Murder",true,1,1
+jeopardy,"Crimes",400,"What is the act of intentionally taking someone else's property without permission?", "Theft",false,1,2
+jeopardy,"Crimes",600,"What is the illegal act of deliberately setting fire to property?", "Arson",false,1,3
+jeopardy,"Crimes",800,"What is the term for the action of unlawfully entering a building or other premises with the intent to commit a crime?", "Burglary",false,1,4
+jeopardy,"Crimes",1000,"What is the term for a person's action of intentionally deceiving someone in order to gain an unfair advantage?", "Fraud",false,1,5
+jeopardy,"Law Enforcement",200,"What agency is responsible for enforcing federal laws and preventing crimes?", "FBI (Federal Bureau of Investigation)",false,2,1
+jeopardy,"Law Enforcement",400,"What is the term for a written order issued by a judge that authorizes law enforcement to carry out a search or arrest?", "Search warrant",false,2,2
+jeopardy,"Law Enforcement",600,"What is the name for the principle that a person cannot be tried twice for the same offense?", "Double jeopardy",false,2,3
+jeopardy,"Law Enforcement",800,"What is the term for a formal accusation of a serious crime, issued by a grand jury based on evidence?", "Indictment",false,2,4
+jeopardy,"Law Enforcement",1000,"What is the term for the process of resolving legal disputes through a court system?", "Litigation",false,2,5
+jeopardy,"Legal Terms",200,"What is the Latin term for 'guilty mind', referring to the mental state of a person when committing a crime?", "Mens rea",false,3,1
+jeopardy,"Legal Terms",400,"What is the legal principle that a person is innocent until proven guilty?", "Presumption of innocence",false,3,2
+jeopardy,"Legal Terms",600,"What is the legal defense in which a person claims they were elsewhere and could not have committed the crime?", "Alibi",false,3,3
+jeopardy,"Legal Terms",800,"What is the term for the legal process in which a person's assets are seized to satisfy a debt or judgment?", "Asset forfeiture",false,3,4
+jeopardy,"Legal Terms",1000,"What is the legal concept that protects individuals from being compelled to testify against themselves?", "Fifth Amendment (Right against self-incrimination)",false,3,5
+jeopardy,"Criminal Justice",200,"What is the system of courts that interprets and applies the law in criminal cases?", "Judiciary",false,4,1
+jeopardy,"Criminal Justice",400,"What is the term for the formal examination of evidence before a trial to determine if there is enough to proceed?", "Preliminary hearing",false,4,2
+jeopardy,"Criminal Justice",600,"What is the term for a sentence served in the community under supervision instead of imprisonment?", "Probation",false,4,3
+jeopardy,"Criminal Justice",800,"What is the term for the punishment of a convicted person that is not imprisonment?", "Non-custodial sentence",false,4,4
+jeopardy,"Criminal Justice",1000,"What is the process of releasing a convicted person from prison before the completion of their sentence?", "Parole",false,4,5
+jeopardy,"Forensic Science",200,"What is the study and examination of physical evidence in criminal investigations?", "Forensics",false,5,1
+jeopardy,"Forensic Science",400,"What is the process of using DNA analysis to determine the identity of an individual?", "DNA profiling",false,5,2
+jeopardy,"Forensic Science",600,"What is the examination and comparison of handwriting samples to determine authenticity or authorship?", "Handwriting analysis",false,5,3
+jeopardy,"Forensic Science",800,"What is the term for the study of insects and their relation to a criminal investigation?", "Forensic entomology",false,5,4
+jeopardy,"Forensic Science",1000,"What is the term for the study of human skeletal remains in a legal context?", "Forensic anthropology",false,5,5
+jeopardy,"Crime Prevention",200,"What is the term for the practice of concealing one's identity while committing a crime?", "Masking",false,6,1
+jeopardy,"Crime Prevention",400,"What is the term for a program that aims to divert individuals away from criminal behavior?", "Diversion program",false,6,2
+jeopardy,"Crime Prevention",600,"What is the term for the act of discouraging potential criminals by increasing the perceived risk of getting caught?", "Deterrence",false,6,3
+jeopardy,"Crime Prevention",800,"What is the term for the use of technology to prevent and detect criminal activity?", "Electronic surveillance",false,6,4
+jeopardy,"Crime Prevention",1000,"What is the term for a legal document that prohibits a person from approaching or contacting a specific individual?", "Restraining order",false,6,5
+double,"Crimes",400,"What is the term for the act of unlawfully taking someone else's vehicle without permission?", "Grand theft auto",true,1,1
+double,"Crimes",800,"What is the term for the illegal act of manufacturing and distributing counterfeit money?", "Counterfeiting",true,1,2
+double,"Crimes",1200,"What is the term for the act of intentionally causing physical harm to another person?", "Assault",false,1,3
+double,"Crimes",1600,"What is the term for the act of engaging in sexual activity with a person without their consent?", "Rape",false,1,4
+double,"Crimes",2000,"What is the term for the act of intentionally providing false information under oath?", "Perjury",false,1,5
+double,"Law Enforcement",400,"What is the term for the act of a law enforcement officer using more force than necessary to subdue a suspect?", "Excessive force",false,2,1
+double,"Law Enforcement",800,"What is the term for a person who assists law enforcement by providing information about criminal activity?", "Informant",false,2,2
+double,"Law Enforcement",1200,"What is the term for the act of intentionally preventing a law enforcement officer from performing their duties?", "Obstruction of justice",false,2,3
+double,"Law Enforcement",1600,"What is the term for the act of intentionally making false statements to a law enforcement officer?", "False reporting",false,2,4
+double,"Law Enforcement",2000,"What is the term for a person who investigates crimes and gathers evidence for use in court?", "Detective",false,2,5
+double,"Legal Terms",400,"Whatis the term for a formal charge or accusation of a serious crime?", "Felony",false,3,1
+double,"Legal Terms",800,"What is the term for a defense in which a person claims they committed the crime but should not be held legally responsible?", "Insanity defense",false,3,2
+double,"Legal Terms",1200,"What is the term for the intentional and unjustifiable killing of another person?", "Homicide",false,3,3
+double,"Legal Terms",1600,"What is the term for the act of causing someone to fear for their safety through threats or intimidation?", "Stalking",false,3,4
+double,"Legal Terms",2000,"What is the term for the act of intentionally damaging or destroying another person's property?", "Vandalism",false,3,5
+double,"Criminal Justice",400,"What is the term for the process of questioning a suspect to obtain information or confession?", "Interrogation",false,4,1
+double,"Criminal Justice",800,"What is the term for a document that outlines the charges against a defendant and their legal rights?", "Indictment",false,4,2
+double,"Criminal Justice",1200,"What is the term for the act of deliberately misleading or deceiving the court or jury during a trial?", "Perjury",false,4,3
+double,"Criminal Justice",1600,"What is the term for a legally binding decision reached by a jury or judge in a criminal case?", "Verdict",false,4,4
+double,"Criminal Justice",2000,"What is the term for the act of releasing a convicted person from prison before the completion of their sentence?", "Parole",false,4,5
+double,"Forensic Science",400,"What is the process of using fingerprints to identify individuals involved in a crime?", "Fingerprinting",false,5,1
+double,"Forensic Science",800,"What is the term for the study of human decomposition to estimate the time since death?", "Forensic entomology",false,5,2
+double,"Forensic Science",1200,"What is the term for the scientific analysis of firearms and ammunition?", "Ballistics",false,5,3
+double,"Forensic Science",1600,"What is the term for the examination of digital evidence in criminal investigations?", "Digital forensics",false,5,4
+double,"Forensic Science",2000,"What is the term for the scientific examination of documents to establish authenticity or detect forgery?", "Document examination",false,5,5
+double,"Crime Prevention",400,"What is the term for a program that aims to rehabilitate offenders and prevent future criminal behavior?", "Rehabilitation program",false,6,1
+double,"Crime Prevention",800,"What is the term for a system of video surveillance used to monitor public areas for criminal activity?", "Closed-circuit television (CCTV)",false,6,2
+double,"Crime Prevention",1200,"What is the term for the act of installing security measures to protect against unauthorized access?", "Security system",false,6,3
+double,"Crime Prevention",1600,"What is the term for a community-based approach to crime prevention that involves residents and law enforcement working together?", "Neighborhood watch",false,6,4
+double,"Crime Prevention",2000,"What is the term for the act of removing or disabling a vehicle's ignition system to prevent it from being stolen?", "Car immobilization",false,6,5
+final,"FINAL CATEGORY",0,"What is the legal term for the intentional act of unlawfully causing the death of another person?", "Homicide",true,1,1

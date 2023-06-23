@@ -1,0 +1,62 @@
+round,cat,val,q,a,dd,x,y
+jeopardy,"Urban Dictionary",200,"What is the term for a person who excessively posts selfies on social media?", "Selfie addict",false,1,1
+jeopardy,"Urban Dictionary",400,"What is the term for a person who pretends to be someone else online to deceive others?", "Catfish",false,1,2
+jeopardy,"Urban Dictionary",600,"What is the term for a person who is easily offended or sensitive?", "Snowflake",false,1,3
+jeopardy,"Urban Dictionary",800,"What is the term for a person who speaks or uses slang words from multiple languages?", "Polyglot",false,1,4
+jeopardy,"Urban Dictionary",1000,"What is the term for a person who always arrives late?", "Chronic procrastinator",false,1,5
+jeopardy,"Slang Words",200,"What is the term for a casual way of saying 'thank you'?", "Thanks a bunch",false,2,1
+jeopardy,"Slang Words",400,"What is the term for a situation or event that is very disappointing?", "Total letdown",false,2,2
+jeopardy,"Slang Words",600,"What is the term for a friend or close companion?", "BFF (Best Friend Forever)",false,2,3
+jeopardy,"Slang Words",800,"What is the term for being in a state of extreme excitement or happiness?", "On cloud nine",false,2,4
+jeopardy,"Slang Words",1000,"What is the term for someone who is very stylish or fashionable?", "Fashionista",false,2,5
+jeopardy,"Acronyms",200,"What does the acronym 'LOL' stand for?", "Laugh out loud",false,3,1
+jeopardy,"Acronyms",400,"What does the acronym 'BRB' stand for?", "Be right back",false,3,2
+jeopardy,"Acronyms",600,"What does the acronym 'OMG' stand for?", "Oh my God",false,3,3
+jeopardy,"Acronyms",800,"What does the acronym 'TTYL' stand for?", "Talk to you later",false,3,4
+jeopardy,"Acronyms",1000,"What does the acronym 'FTW' stand for?", "For the win",false,3,5
+jeopardy,"Internet Slang",200,"What is the term for a person who is new or inexperienced in a particular activity or online community?", "Noob",false,4,1
+jeopardy,"Internet Slang",400,"What is the term for expressing strong approval or excitement online?", "Woot",false,4,2
+jeopardy,"Internet Slang",600,"What is the term for deliberately provoking or annoying others online for one's own amusement?", "Trolling",false,4,3
+jeopardy,"Internet Slang",800,"What is the term for sharing someone else's content on social media without giving proper credit?", "Repost",false,4,4
+jeopardy,"Internet Slang",1000,"What is the term for the act of unfollowing or removing someone from one's social media connections?", "Unfriend",false,4,5
+jeopardy,"Emoji Meanings",200,"What does the emoji 😂 commonly represent?", "Laughter",false,5,1
+jeopardy,"Emoji Meanings",400,"What does the emoji ❤️ typically symbolize?", "Love",false,5,2
+jeopardy,"Emoji Meanings",600,"What does the emoji 🙌 often signify?", "Celebration or excitement",false,5,3
+jeopardy,"Emoji Meanings",800,"What does the emoji 🤔 usually indicate?", "Pondering or thinking",false,5,4
+jeopardy,"Emoji Meanings",1000,"What does the emoji 👍 commonly express?", "Approval or agreement",false,5,5
+jeopardy,"Word Origins",200,"What is the origin of the word 'meme'?", "It was coined by Richard Dawkins in 1976",false,6,1
+jeopardy,"Word Origins",400,"What is the origin of the term 'YOLO'?", "It was popularized by rapper Drake in 2011",false,6,2
+jeopardy,"Word Origins",600,"What is the origin of the word 'phubbing'?", "It is a combination of 'phone' and 'snubbing'",false,6,3
+jeopardy,"Word Origins",800,"What is the origin of the term 'FOMO'?", "It stands for 'fear of missing out'",false,6,4
+jeopardy,"Word Origins",1000,"What is the origin of the word 'selfie'?", "It was named 2013 Word of the Year by Oxford Dictionaries",false,6,5
+double,"Urban Dictionary",400,"What is the term for a person who is obsessed with their appearance and takes excessive selfies?", "Narcissist",true,1,1
+double,"Urban Dictionary",800,"What is the term for a person who continuously interrupts conversations or talks excessively?", "Chatterbox",true,1,2
+double,"Urban Dictionary",1200,"What is the term for someone who is overly obsessed with technology and digital devices?", "Technophile",false,1,3
+double,"Urban Dictionary",1600,"What is the term for a person who claims to have expertise or knowledge but actually doesn't?", "Pseudointellectual",false,1,4
+double,"Urban Dictionary",2000,"What is the term for a person who is always late and keeps others waiting?", "Time bandit",false,1,5
+double,"Slang Words",400,"What is the term for an event or situation that is very exciting or impressive?", "Epic",false,2,1
+double,"Slang Words",800,"What is the term for a person who is excessively concerned with their appearance?", "Fashionista",false,2,2
+double,"Slang Words",1200,"What is the term for a person who is overly enthusiastic and energetic?", "Hyper",false,2,3
+double,"Slang Words",1600,"What is the term for a person who is extremely cool, impressive, or admirable?", "Badass",false,2,4
+double,"Slang Words",2000,"What is the term for a person who is excellent or outstanding?", "Ace",false,2,5
+double,"Acronyms",400,"What does the acronym 'TBH' stand for?", "To be honest",false,3,1
+double,"Acronyms",800,"What does the acronym 'SMH' stand for?", "Shaking my head",false,3,2
+double,"Acronyms",1200,"What does the acronym 'TBT' stand for?", "Throwback Thursday",false,3,3
+double,"Acronyms",1600,"What does the acronym 'IRL' stand for?", "In real life",false,3,4
+double,"Acronyms",2000,"What does the acronym 'FOMO' stand for?", "Fear of missing out",false,3,5
+double,"Internet Slang",400,"What is the term for intentionally making someone angry or upset online?", "Flaming",false,4,1
+double,"Internet Slang",800,"What is the term for expressing sarcasm or irony online?", "Savage",false,4,2
+double,"Internet Slang",1200,"What is the term for a person who constantly craves attention and validation on social media?", "Attention whore",false,4,3
+double,"Internet Slang",1600,"What is the term for sharing excessive personal details on social media?", "Oversharing",false,4,4
+double,"Internet Slang",2000,"What is the term for a person who is extremely addicted to the internet?", "Webaholic",false,4,5
+double,"Emoji Meanings",400,"What does the emoji 😍 commonly indicate?", "Admiration or affection",false,5,1
+double,"Emoji Meanings",800,"What does the emoji 🙏 often symbolize?", "Prayer or gratitude",false,5,2
+double,"Emoji Meanings",1200,"What does the emoji 🤣 typically represent?", "Intense laughter or hilarity",false,5,3
+double,"Emoji Meanings",1600,"What does the emoji 🤓 usually imply?", "Nerdiness or intelligence",false,5,4
+double,"Emoji Meanings",2000,"What does the emoji 💯 commonly signify?", "Perfection or excellence",false,5,5
+double,"Word Origins",400,"What is the origin of the term 'YOLO'?", "It stands for 'you only live once'",false,6,1
+double,"Word Origins",800,"What is the origin of the term 'selfie'?", "It originated from a photo posted by a drunk Australian man in 2002",false,6,2
+double,"Word Origins",1200,"What is the origin of the term 'phubbing'?", "It is a combination of 'phone' and 'snubbing'",false,6,3
+double,"Word Origins",1600,"What is the origin of the word 'twerk'?", "It originated from the New Orleans bounce music scene in the early 1990s",false,6,4
+double,"Word Origins",2000,"What is the origin of the term 'FOMO'?", "It was first used by Dr. Dan Herman in a Harvard Business School article in 2000",false,6,5
+final,"Urban Dictionary",0,"What is the term for a person who has an excessive or irrational fear of missing out?", "FOMOphobia",false,1,1

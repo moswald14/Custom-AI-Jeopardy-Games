@@ -1,0 +1,52 @@
+round,cat,val,q,a,dd,x,y
+jeopardy,"Pokemon Games",200,"Which generation introduced the Fairy type?", "Generation 6", true, 1, 1
+jeopardy,"Pokemon Games",400,"What is the name of the region in Pokemon Black and White?", "Unova", false, 1, 2
+jeopardy,"Pokemon Games",600,"Which game introduced the Battle Frontier?", "Pokemon Emerald", false, 1, 3
+jeopardy,"Pokemon Games",800,"Who is the final Gym Leader in Pokemon Red and Blue?", "Giovanni", false, 1, 4
+jeopardy,"Pokemon Games",1000,"Which game is set in the region of Alola?", "Pokemon Sun and Moon", false, 1, 5
+jeopardy,"Pokemon TV Show",200,"Who is the main character in the Pokemon anime?", "Ash Ketchum", false, 2, 1
+jeopardy,"Pokemon TV Show",400,"Which Pokemon does Misty own?", "Psyduck", false, 2, 2
+jeopardy,"Pokemon TV Show",600,"What is the name of the organization led by Giovanni?", "Team Rocket", false, 2, 3
+jeopardy,"Pokemon TV Show",800,"Who is Ash's rival in the Sinnoh region?", "Paul", false, 2, 4
+jeopardy,"Pokemon TV Show",1000,"Which character is known for saying 'Prepare for trouble, and make it double!'?", "Jessie", false, 2, 5
+jeopardy,"Legendary Pokemon",200,"Which legendary Pokemon is known as the Time Travel Pokemon?", "Celebi", false, 3, 1
+jeopardy,"Legendary Pokemon",400,"Which legendary Pokemon is known as the DNA Pokemon?", "Deoxys", false, 3, 2
+jeopardy,"Legendary Pokemon",600,"Which legendary Pokemon is known as the Sea Guardian?", "Lugia", false, 3, 3
+jeopardy,"Legendary Pokemon",800,"Which legendary Pokemon is known as the Life Pokemon?", "Xerneas", false, 3, 4
+jeopardy,"Legendary Pokemon",1000,"Which legendary Pokemon is known as the Sky High Pokemon?", "Rayquaza", false, 3, 5
+jeopardy,"Pokemon Types",200,"Which type is super effective against Water-type Pokemon?", "Grass", false, 4, 1
+jeopardy,"Pokemon Types",400,"Which type is immune to Poison-type moves?", "Steel", false, 4, 2
+jeopardy,"Pokemon Types",600,"Which type is weak to Electric-type moves?", "Flying", false, 4, 3
+jeopardy,"Pokemon Types",800,"Which type resists Fairy-type moves?", "Steel", false, 4, 4
+jeopardy,"Pokemon Types",1000,"Which type is weak to Bug-type moves?", "Dark", false, 4, 5
+jeopardy,"Evolutionary Stones",200,"Which stone is used to evolve Eevee into Vaporeon?", "Water Stone", false, 5, 1
+jeopardy,"Evolutionary Stones",400,"Which stone is used to evolve Pikachu into Raichu?", "Thunder Stone", false, 5, 2
+jeopardy,"Evolutionary Stones",600,"Which stone is used to evolve Poliwhirl into Poliwrath?", "Water Stone", false, 5, 3
+jeopardy,"Evolutionary Stones",800,"Which stone is used to evolve Gloom into Bellossom?", "Sun Stone", false, 5, 4
+jeopardy,"Evolutionary Stones",1000,"Which stone is used to evolve Onix into Steelix?", "Metal Coat", false, 5, 5
+double,"Pokemon Trivia",400,"What is the name of Ash's Pikachu?", "Pikachu", true, 1, 1
+double,"Pokemon Trivia",800,"Who is the Gym Leader of Pewter City in Pokemon Red and Blue?", "Brock", true, 1, 2
+double,"Pokemon Trivia",1200,"Who is the rival character in Pokemon Ruby and Sapphire?", "May/Brendan", false, 1, 3
+double,"Pokemon Trivia",1600,"Who is the champion of the Pokemon League in Pokemon Gold and Silver?", "Lance", true, 1, 4
+double,"Pokemon Trivia",2000,"Who is the first Gym Leader in Pokemon Black and White?", "Cilan", false, 1, 5
+double,"Pokemon Moves",400,"What move has a base power of 120 and can hit non-adjacent opponents in double battles?", "Surf", false, 2, 1
+double,"Pokemon Moves",800,"What move increases the user's Attack and Defense stats by one stage?", "Bulk Up", false, 2, 2
+double,"Pokemon Moves",1200,"What move damages the target and has a 30% chance to lower the target's Defense stat by one stage?", "Crabhammer", false, 2, 3
+double,"Pokemon Moves",1600,"What move has a base power of 140 and confuses the target?", "Outrage", false, 2, 4
+double,"Pokemon Moves",2000,"What move has a base power of 120 and has a high critical-hit ratio?", "Night Slash", false, 2, 5
+double,"Team Rocket",400,"Who is the leader of Team Rocket?", "Giovanni", false, 3, 1
+double,"Team Rocket",800,"Who are the main members of Team Rocket?", "Jessie, James, and Meowth", true, 3, 2
+double,"Team Rocket",1200,"What is the name of Team Rocket's headquarters?", "Team Rocket Hideout", false, 3, 3
+double,"Team Rocket",1600,"Who is the talking Meowth in Team Rocket?", "Meowth", true, 3, 4
+double,"Team Rocket",2000,"What is the motto of Team Rocket?", "To protect the world from devastation! To unite all peoples within our nation!", false, 3, 5
+double,"Pokemon Evolution",400,"What is the pre-evolution of Charizard?", "Charmeleon", false, 4, 1
+double,"Pokemon Evolution",800,"Which Pokemon evolves into Gengar when traded?", "Haunter", false, 4, 2
+double,"Pokemon Evolution",1200,"What is the final evolution of Bulbasaur?", "Venusaur", true, 4, 3
+double,"Pokemon Evolution",1600,"Which Pokemon evolves into Espeon when leveled up with high friendship during the day?", "Eevee", false, 4, 4
+double,"Pokemon Evolution",2000,"What is the pre-evolution of Steelix?", "Onix", true, 4, 5
+double,"Pokemon Locations",400,"Where can you find Mewtwo in Pokemon Red and Blue?", "Cerulean Cave", false, 5, 1
+double,"Pokemon Locations",800,"Where can you find Zapdos in Pokemon Yellow?", "Power Plant", true, 5, 2
+double,"Pokemon Locations",1200,"Where can you find Rayquaza in Pokemon Emerald?", "Sky Pillar", false, 5, 3
+double,"Pokemon Locations",1600,"Where can you find Articuno in Pokemon FireRed and LeafGreen?", "Seafoam Islands", false, 5, 4
+double,"Pokemon Locations",2000,"Where can you find Dialga in Pokemon Diamond?", "Spear Pillar", false, 5, 5
+final,"Legenday Pokemon",0,"What is the name of the Legendary Pokemon that represents time and is featured in Pokemon Diamond and Pearl?", "Dialga", false, 1, 1
